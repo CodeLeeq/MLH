@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5%;
+    top: 0%;
+    background-color: rgb(250, 255, 245)
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    height: 70vh;
+}
+.logo{
+width: 210px;
+height: 55px;
+}
+#nav-link{
+    padding: 1px;
+    display: inline;
+    margin-left: 50%;
+    position: absolute;
+     
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    color: darkviolet;
+}
+h2{
+    font-family: 'Nova Flat', cursive;
+    color: dodgerblue;
+}
+.left,.right{
+width: 46vw;
+}
+img{
+    height: 40vh;
+    width: auto;
+    margin: 3vh 0;
+}
+a, a:visited{
+    color: rgb(245, 58, 58);
+}
